@@ -19,7 +19,7 @@
     "react": "^16.13.1",
     "react-big-calendar": "^1.18.0",
     "react-dom": "^16.13.1",
-    "react-popup": "^0.11.2",
+    "reactjs-popup": "^2.0.6",
     "style-loader": "^1.2.1",
     "webpack-cli": "^3.3.12"
   },
