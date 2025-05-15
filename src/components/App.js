@@ -2,10 +2,9 @@
 import React, { useState } from "react";
 import moment from "moment";
 import { Calendar, momentLocalizer } from "react-big-calendar";
-import Popup from "react-popup";
+import Popup from 'reactjs-popup';
 import "react-big-calendar/lib/css/react-big-calendar.css";
-import "react-popup/style.css";
-
+import "reactjs-popup/dist/index.css";
 const localizer = momentLocalizer(moment);
 
 function App() {
